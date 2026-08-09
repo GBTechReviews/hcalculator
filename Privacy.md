@@ -35,3 +35,6 @@ settings.
 
 Contact: open an issue at
 https://github.com/GBTechReviews/hcalculator/issues
+
+Developer: GB Tech Reviews / HProductions
+开发者：GB Tech Reviews / HProductions
