@@ -1,3 +1,9 @@
+---
+layout: default
+title: HCalculator Privacy Policy
+permalink: /privacy/
+---
+
 HCalculator 隐私政策
 
 最后更新：2026年8月4日
