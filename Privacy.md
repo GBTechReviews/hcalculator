@@ -4,200 +4,36 @@ title: HCalculator Privacy Policy
 permalink: /privacy/
 ---
 
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>HCalculator Privacy Policy</title>
-  <style>
-    * {
-      box-sizing: border-box;
-    }
-
-    body {
-      margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC",
-        "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-      background:
-        radial-gradient(circle at top, rgba(50, 130, 255, 0.20), transparent 45%),
-        linear-gradient(180deg, #08111f 0%, #0b1830 45%, #07101d 100%);
-      color: #f4f7ff;
-      min-height: 100vh;
-      padding: 40px 20px;
-    }
-
-    .wrap {
-      max-width: 900px;
-      margin: 0 auto;
-    }
-
-    .card {
-      background: rgba(9, 18, 35, 0.72);
-      border: 1px solid rgba(130, 180, 255, 0.16);
-      border-radius: 24px;
-      padding: 32px;
-      backdrop-filter: blur(18px);
-      -webkit-backdrop-filter: blur(18px);
-      box-shadow:
-        0 10px 40px rgba(0, 0, 0, 0.35),
-        inset 0 1px 0 rgba(255, 255, 255, 0.05);
-    }
-
-    .badge {
-      display: inline-block;
-      padding: 8px 14px;
-      border-radius: 999px;
-      background: rgba(70, 140, 255, 0.14);
-      border: 1px solid rgba(120, 180, 255, 0.20);
-      color: #9fcbff;
-      font-size: 13px;
-      margin-bottom: 16px;
-    }
-
-    h1 {
-      margin: 0 0 10px;
-      font-size: 36px;
-      line-height: 1.15;
-      font-weight: 700;
-      letter-spacing: -0.02em;
-    }
-
-    .subtitle {
-      margin: 0 0 24px;
-      color: #b8c7e6;
-      font-size: 15px;
-    }
-
-    .section {
-      margin-top: 28px;
-      padding-top: 22px;
-      border-top: 1px solid rgba(255, 255, 255, 0.08);
-    }
-
-    h2 {
-      margin: 0 0 14px;
-      font-size: 22px;
-      color: #ffffff;
-    }
-
-    p {
-      color: #e6ecfa;
-      line-height: 1.75;
-      margin: 0 0 14px;
-    }
-
-    ul {
-      margin: 0;
-      padding-left: 22px;
-    }
-
-    li {
-      margin: 10px 0;
-      color: #e6ecfa;
-      line-height: 1.7;
-    }
-
-    .info {
-      margin-top: 22px;
-      padding: 16px 18px;
-      border-radius: 16px;
-      background: rgba(255, 255, 255, 0.04);
-      border: 1px solid rgba(255, 255, 255, 0.06);
-      color: #c8d5ef;
-      font-size: 14px;
-      line-height: 1.7;
-    }
-
-    a {
-      color: #7bc0ff;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .footer {
-      margin-top: 18px;
-      color: #9fb0d1;
-      font-size: 14px;
-    }
-
-    @media (max-width: 700px) {
-      body {
-        padding: 20px 14px;
-      }
-
-      .card {
-        padding: 22px;
-        border-radius: 20px;
-      }
-
-      h1 {
-        font-size: 28px;
-      }
-
-      h2 {
-        font-size: 20px;
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="wrap">
-    <div class="card">
-      <div class="badge">HCalculator · Privacy Policy / 隐私政策</div>
-
-      <h1>HCalculator 隐私政策</h1>
-      <p class="subtitle">最后更新：2026年8月4日</p>
-
-      <p>HCalculator 不会收集、存储或传输任何个人数据。</p>
-
-      <div class="section">
-        <h2>中文说明</h2>
-        <ul>
-          <li>无需创建账户或登录。</li>
-          <li>不使用任何分析、跟踪或广告 SDK。</li>
-          <li>本应用不会访问互联网。</li>
-          <li>计算历史记录和设置（主题、强调色、触觉反馈、动画）仅存储在您的设备上，绝不会离开您的设备。</li>
-          <li>VIBRATE 权限仅用于按键时的触觉反馈。</li>
-        </ul>
-
-        <p style="margin-top: 16px;">清除应用数据或卸载应用将删除所有已存储的历史记录和设置。</p>
-
-        <div class="info">
-          开发者：GB Tech Reviews / HProductions<br>
-          联系方式：请在
-          <a href="https://github.com/GBTechReviews/hcalculator/issues">GitHub Issues</a>
-          提交问题。
-        </div>
-      </div>
-
-      <div class="section">
-        <h2>English</h2>
-        <p>HCalculator does not collect, store, or transmit any personal data.</p>
-        <ul>
-          <li>No account or sign-in is required.</li>
-          <li>No analytics, tracking, or advertising SDKs are used.</li>
-          <li>The app does not access the internet.</li>
-          <li>Calculation history and settings (theme, accent colour, haptics, animations) are stored only on your device and never leave it.</li>
-          <li>The VIBRATE permission is used solely for haptic feedback on key presses.</li>
-        </ul>
-
-        <p style="margin-top: 16px;">Clearing the app's data or uninstalling removes all stored history and settings.</p>
-
-        <div class="info">
-          Developer: GB Tech Reviews / HProductions<br>
-          Contact: open an issue at
-          <a href="https://github.com/GBTechReviews/hcalculator/issues">GitHub Issues</a>.
-        </div>
-      </div>
-
-      <div class="footer">
-        This page is provided for AppGallery review and user transparency.
-      </div>
-    </div>
-  </div>
-</body>
-</html>
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HCalculator Privacy Policy / 隐私政策</title>
+<style>:root{color-scheme:light dark}*{box-sizing:border-box}body{margin:0;background:#081526;color:#e6edf6;font:17px/1.8 system-ui,-apple-system,"Segoe UI","Microsoft YaHei",sans-serif}main{max-width:900px;margin:auto;padding:32px 22px 70px}nav{display:flex;gap:24px;flex-wrap:wrap;border-bottom:1px solid #40546a;padding:14px 0}a{color:#85c9ff}h1{font-size:32px;line-height:1.3;color:white}h2{font-size:22px;line-height:1.4;margin:32px 0 14px;color:white}p{overflow-wrap:anywhere}section{padding-top:24px}footer{border-top:1px solid #40546a;margin-top:40px;padding-top:18px;color:#b4c5d9}@media(max-width:500px){body{font-size:16px}main{padding:18px 18px 50px}h1{font-size:27px}}</style></head>
+<body><main><nav aria-label="Language / 语言"><strong>HCalculator</strong><a href="#zh">简体中文</a><a href="#en">English</a></nav>
+<section id="zh" lang="zh-CN"><h1>隐私政策</h1><article id="zh-overview"><h2>HCalculator 隐私政策</h2><p>更新日期：2026年10月25日。开发者：GB Tech Reviews / HProductions。本政策适用于 HarmonyOS 和 Android 版本的 HCalculator（包括 com.hproductions.hcalculator）。</p>
+<p>HCalculator 无需账号，不包含广告、分析或跟踪 SDK。开发者不会接收您的算式、笔记、便签内容、存储数值或传感器读数。</p></article>
+<article id="zh-local"><h2>设备本地数据</h2><p>算式、历史记录、笔记页面、便签及绘图、存储数值、设置和缓存汇率保存在应用的本地存储中。</p>
+<p>您可以在设置中清除历史记录和笔记，在工作区删除便签，并清空存储槽。清除应用数据或卸载应用会删除本地数据。您之前导出的备份或剪贴板副本属于独立副本，可能仍然保留。</p></article>
+<article id="zh-network"><h2>汇率与互联网访问</h2><p>未开启“仅离线”时，应用启动后会自动从 https://open.er-api.com/v6/latest/USD 下载以美元为基准的公开汇率，也可由您手动刷新。请求不包含您的算式、笔记、换算金额、账号资料或传感器数据。</p>
+<p>直接 HTTPS 请求会向汇率提供方 AYR Tech (Pty) Ltd / ExchangeRate-API 显示您的 IP 地址及常规连接和请求元数据。开发者没有用于接收这些请求的自建服务器。提供方按其自身条款和隐私政策处理网络数据：https://www.exchangerate-api.com/terms。</p>
+<p>在“设置 → 汇率”开启“仅离线”可停止后续汇率请求，已在进行的请求可能完成。内置参考汇率和所有本地计算功能在离线时仍可使用。打开在线隐私政策或汇率来源等外部网站时，将使用浏览器并适用该网站的隐私规则。</p></article>
+<article id="zh-clipboard"><h2>剪贴板与备份</h2><p>仅在您选择“复制”或“导出备份”时，应用才会将结果或完整备份写入系统剪贴板。备份包含设置、历史记录、笔记、便签及绘图和存储数值。获得剪贴板读取权限的其他应用或人员可能读取该副本。</p>
+<p>仅在您主动粘贴或恢复备份后读取剪贴板。HarmonyOS 通过系统粘贴按钮授予读取权限。恢复备份需经确认后替换数据，并保留一份本地恢复前快照；“撤销上次备份恢复”可恢复该快照。</p>
+<p>在系统支持时，应用允许系统备份和设备迁移。操作系统可能根据您的系统或账号设置及其隐私政策备份或传输应用数据。HCalculator 不会上传手动导出的备份。无需保留的剪贴板副本和另存备份需由您自行清除。</p></article>
+<article id="zh-permissions"><h2>权限与可选传感器</h2><p>网络权限用于下载公开汇率；振动用于可关闭的按键反馈；加速度计仅用于可选的自动单手模式。传感器读数在设备本地处理，不会发送给开发者或汇率提供方。</p>
+<p>计算功能不申请相机、麦克风、通讯录或位置权限。</p></article>
+<article id="zh-contact"><h2>联系与政策更新</h2><p>隐私问题或数据权利请求可通过 https://github.com/GBTechReviews/hcalculator/issues 联系 GB Tech Reviews / HProductions。GitHub Issue 为公开内容，请勿提交私人算式、备份或其他敏感信息。开发者没有可供查询或删除的账号或计算内容数据库。</p>
+<p>应用行为变化时会更新本政策，以上日期标识当前版本。英文与简体中文版本描述相同的数据处理方式。</p></article></section>
+<section id="en" lang="en-GB"><h1>Privacy Policy</h1><article id="en-overview"><h2>HCalculator Privacy Policy</h2><p>Last updated: 25 October 2026. Developer: GB Tech Reviews / HProductions. This policy covers HCalculator, including com.hproductions.hcalculator, on HarmonyOS and Android.</p>
+<p>HCalculator has no account system, advertising, analytics or tracking SDKs. The developer does not receive your calculations, notes, pinboard content, memory values or sensor readings.</p></article>
+<article id="en-local"><h2>Data on your device</h2><p>Calculations, history, notebook pages, pinboard cards and drawings, memory slots, settings and cached exchange rates are stored in the app’s local storage.</p>
+<p>You can delete history and notebook data in Settings, remove pinboard cards in the workspace, and clear memory slots. Clearing the app’s data or uninstalling removes its local data. Backups or clipboard copies you previously created are separate copies and may remain.</p></article>
+<article id="en-network"><h2>Currency rates and internet access</h2><p>Unless Offline only is enabled, the app automatically downloads public USD-based exchange rates from https://open.er-api.com/v6/latest/USD when it opens. You can also request a refresh. These requests do not include your calculations, notes, selected conversion amounts, account details or sensor data.</p>
+<p>A direct HTTPS request exposes your IP address and normal connection/request metadata to the exchange-rate provider, AYR Tech (Pty) Ltd / ExchangeRate-API. The developer does not operate a server receiving these requests. The provider handles its network data under its own terms and privacy policy: https://www.exchangerate-api.com/terms.</p>
+<p>Turn on Offline only in Settings → Currency to stop subsequent rate requests. A request already in progress may finish. Built-in reference rates and all local calculator features remain available offline. Opening an external website, including the online policy or provider attribution, uses your browser and that website’s privacy practices.</p></article>
+<article id="en-clipboard"><h2>Clipboard and backups</h2><p>Copy and Export backup write the result or full app backup to your system clipboard only when you choose the action. A backup includes your settings, history, notebooks, pinboard/drawings and memory. Anyone or any app permitted to read your clipboard may be able to read that copy.</p>
+<p>Paste and Restore backup read the clipboard only after your action. On HarmonyOS the system Paste button grants that access. Restoring replaces app data after confirmation and keeps one local recovery snapshot; Undo last backup restore restores that snapshot.</p>
+<p>System backup and device migration are enabled where supported. Your operating system may transfer or back up app data according to your system/account settings and its privacy policy. Manual backups are not uploaded by HCalculator. Clear clipboard copies and separately stored backups yourself when you no longer need them.</p></article>
+<article id="en-permissions"><h2>Permissions and optional sensors</h2><p>Internet access is used for public currency-rate downloads. Vibration is used for optional key feedback and can be turned off. Accelerometer readings support optional automatic one-handed mode; they are processed on the device and are not sent to the developer or the rate provider.</p>
+<p>HCalculator does not request camera, microphone, contacts or location access for its calculator features.</p></article>
+<article id="en-contact"><h2>Questions and changes</h2><p>For privacy questions or data-rights requests, contact GB Tech Reviews / HProductions through https://github.com/GBTechReviews/hcalculator/issues. GitHub issues are public: do not include private calculations, backups or other sensitive information. HCalculator holds no developer-side account or calculation database to search or delete.</p>
+<p>This policy will be updated when app behaviour changes. The date above identifies this version. The English and Simplified Chinese versions describe the same practices.</p></article></section>
+<footer>GB Tech Reviews / HProductions · 2026-10-25<br><a href="https://github.com/GBTechReviews/hcalculator/issues">Contact / 联系我们（公开 Issue）</a></footer></main></body></html>
