@@ -4,7 +4,6 @@ title: HCalculator Privacy Policy
 permalink: /privacy/
 ---
 
-<!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HCalculator Privacy Policy / 隐私政策</title>
 <style>:root{color-scheme:light dark}*{box-sizing:border-box}body{margin:0;background:#081526;color:#e6edf6;font:17px/1.8 system-ui,-apple-system,"Segoe UI","Microsoft YaHei",sans-serif}main{max-width:900px;margin:auto;padding:32px 22px 70px}nav{display:flex;gap:24px;flex-wrap:wrap;border-bottom:1px solid #40546a;padding:14px 0}a{color:#85c9ff}h1{font-size:32px;line-height:1.3;color:white}h2{font-size:22px;line-height:1.4;margin:32px 0 14px;color:white}p{overflow-wrap:anywhere}section{padding-top:24px}footer{border-top:1px solid #40546a;margin-top:40px;padding-top:18px;color:#b4c5d9}@media(max-width:500px){body{font-size:16px}main{padding:18px 18px 50px}h1{font-size:27px}}</style></head>
 <body><main><nav aria-label="Language / 语言"><strong>HCalculator</strong><a href="#zh">简体中文</a><a href="#en">English</a></nav>
