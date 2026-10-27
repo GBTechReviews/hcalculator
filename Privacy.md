@@ -1,14 +1,14 @@
 ---
 layout: none
-title: HCalculator Privacy Policy
+title: HCalc Privacy Policy
 permalink: /privacy/
 ---
 
-<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HCalculator Privacy Policy / 隐私政策</title>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HCalc Privacy Policy / 隐私政策</title>
 <style>:root{color-scheme:light dark}*{box-sizing:border-box}body{margin:0;background:#081526;color:#e6edf6;font:17px/1.8 system-ui,-apple-system,"Segoe UI","Microsoft YaHei",sans-serif}main{max-width:900px;margin:auto;padding:32px 22px 70px}nav{display:flex;gap:24px;flex-wrap:wrap;border-bottom:1px solid #40546a;padding:14px 0}a{color:#85c9ff}h1{font-size:32px;line-height:1.3;color:white}h2{font-size:22px;line-height:1.4;margin:32px 0 14px;color:white}p{overflow-wrap:anywhere}section{padding-top:24px}footer{border-top:1px solid #40546a;margin-top:40px;padding-top:18px;color:#b4c5d9}@media(max-width:500px){body{font-size:16px}main{padding:18px 18px 50px}h1{font-size:27px}}</style></head>
-<body><main><nav aria-label="Language / 语言"><strong>HCalculator</strong><a href="#zh">简体中文</a><a href="#en">English</a></nav>
-<section id="zh" lang="zh-CN"><h1>隐私政策</h1><article id="zh-overview"><h2>HCalculator 隐私政策</h2><p>更新日期：2026年10月26日。开发者：Griffith Rhys Bowen（GB Tech Reviews / HProductions）。本政策适用于 HarmonyOS 和 Android 版本的 HCalculator（包括 com.hproductions.hcalculator）。</p>
-<p>HCalculator 无需账号，不包含广告、分析或跟踪 SDK。应用不会自动将您的算式、笔记、便签内容、存储数值或传感器读数发送给开发者。</p></article>
+<body><main><nav aria-label="Language / 语言"><strong>HCalc</strong><a href="#zh">简体中文</a><a href="#en">English</a></nav>
+<section id="zh" lang="zh-CN"><h1>隐私政策</h1><article id="zh-overview"><h2>HCalc 隐私政策</h2><p>更新日期：2026年10月27日。开发者：Griffith Rhys Bowen（GB Tech Reviews / HProductions）。本政策适用于 HarmonyOS 和 Android 版本的 HCalc（包括 com.hproductions.hcalculator）。</p>
+<p>HCalc 无需账号，不包含广告、分析或跟踪 SDK。应用不会自动将您的算式、笔记、便签内容、存储数值或传感器读数发送给开发者。</p></article>
 <article id="zh-local"><h2>设备本地数据</h2><p>算式、历史记录、笔记页面、便签及绘图、存储数值、设置和缓存汇率保存在应用的本地存储中。</p>
 <p>您可以在设置中清除历史记录和笔记，在工作区删除便签，并清空存储槽。清除应用数据或卸载应用会删除本地数据。您之前导出的备份或剪贴板副本属于独立副本，可能仍然保留。</p></article>
 <article id="zh-network"><h2>汇率与互联网访问</h2><p>在隐私提示中明确同意在线汇率且未开启“仅离线”后，应用启动时会自动从 https://open.er-api.com/v6/latest/USD 下载以美元为基准的公开汇率，也可由您手动刷新。请求不包含您的算式、笔记、换算金额、账号资料或传感器数据。</p>
@@ -16,14 +16,14 @@ permalink: /privacy/
 <p>首次启动会提供“同意并启用在线汇率”和“不同意，离线使用”选项，选择前可离线阅读完整政策。选择保存在设备本地。在“设置 → 汇率”开启“仅离线”可撤回在线汇率授权并停止后续请求，重新启用需再次明确选择。已在进行的请求可能完成。内置参考汇率和所有本地计算功能在离线时仍可使用。打开在线隐私政策或汇率来源等外部网站时，将使用浏览器并适用该网站的隐私规则。</p></article>
 <article id="zh-clipboard"><h2>剪贴板与备份</h2><p>仅在您选择“复制”或“导出备份”时，应用才会将结果或完整备份写入系统剪贴板。备份包含设置、历史记录、笔记、便签及绘图和存储数值。获得剪贴板读取权限的其他应用或人员可能读取该副本。</p>
 <p>仅在您主动粘贴或恢复备份后读取剪贴板。HarmonyOS 通过系统粘贴按钮授予读取权限。恢复备份需经确认后替换数据，并保留一份本地恢复前快照；“撤销上次备份恢复”可恢复该快照。</p>
-<p>在系统支持时，应用允许系统备份和设备迁移。操作系统可能根据您的系统或账号设置及其隐私政策备份或传输应用数据。HCalculator 不会上传手动导出的备份。无需保留的剪贴板副本和另存备份需由您自行清除。</p></article>
+<p>在系统支持时，应用允许系统备份和设备迁移。操作系统可能根据您的系统或账号设置及其隐私政策备份或传输应用数据。HCalc 不会上传手动导出的备份。无需保留的剪贴板副本和另存备份需由您自行清除。</p></article>
 <article id="zh-permissions"><h2>权限与可选传感器</h2><p>网络权限用于下载公开汇率；振动用于可关闭的按键反馈；加速度计仅用于可选的自动单手模式。传感器读数在设备本地处理，不会发送给开发者或汇率提供方。</p>
 <p>计算功能不申请相机、麦克风、通讯录或位置权限。</p></article>
 <article id="zh-contact"><h2>联系与政策更新</h2><p>支持、隐私问题或数据权利请求请发邮件至 huaweiproreview@gmail.com，联系 GB Tech Reviews / HProductions。“问题反馈”会打开邮件应用并预填收件人和主题，不会自动添加算式、备份或附件。若您发送邮件，我们会接收您的邮箱地址及您主动提供的信息，以回复您的请求。请勿发送密码或完整备份。</p>
 <p>您也可使用 https://github.com/GBTechReviews/hcalculator/issues。GitHub Issue 为公开内容，请勿提交私人算式、备份或其他敏感信息。开发者没有可供查询或删除的账号或计算内容数据库。“支持我”在浏览器中打开可选的 Ko-fi 支持页面，相关支付由该网站处理，并适用其自身条款和隐私政策。</p>
 <p>应用行为变化时会更新本政策，以上日期标识当前版本。英文与简体中文版本描述相同的数据处理方式。</p></article></section>
-<section id="en" lang="en-GB"><h1>Privacy Policy</h1><article id="en-overview"><h2>HCalculator Privacy Policy</h2><p>Last updated: 26 October 2026. Developer: Griffith Rhys Bowen (GB Tech Reviews / HProductions). This policy covers HCalculator, including com.hproductions.hcalculator, on HarmonyOS and Android.</p>
-<p>HCalculator has no account system, advertising, analytics or tracking SDKs. The app does not automatically send your calculations, notes, pinboard content, memory values or sensor readings to the developer.</p></article>
+<section id="en" lang="en-GB"><h1>Privacy Policy</h1><article id="en-overview"><h2>HCalc Privacy Policy</h2><p>Last updated: 27 October 2026. Developer: Griffith Rhys Bowen (GB Tech Reviews / HProductions). This policy covers HCalc, including com.hproductions.hcalculator, on HarmonyOS and Android.</p>
+<p>HCalc has no account system, advertising, analytics or tracking SDKs. The app does not automatically send your calculations, notes, pinboard content, memory values or sensor readings to the developer.</p></article>
 <article id="en-local"><h2>Data on your device</h2><p>Calculations, history, notebook pages, pinboard cards and drawings, memory slots, settings and cached exchange rates are stored in the app’s local storage.</p>
 <p>You can delete history and notebook data in Settings, remove pinboard cards in the workspace, and clear memory slots. Clearing the app’s data or uninstalling removes its local data. Backups or clipboard copies you previously created are separate copies and may remain.</p></article>
 <article id="en-network"><h2>Currency rates and internet access</h2><p>After you explicitly agree to online rates in the privacy prompt, and unless Offline only is enabled, the app automatically downloads public USD-based exchange rates from https://open.er-api.com/v6/latest/USD when it opens. You can also request a refresh. These requests do not include your calculations, notes, selected conversion amounts, account details or sensor data.</p>
@@ -31,10 +31,10 @@ permalink: /privacy/
 <p>The first-launch prompt offers Agree and enable online rates or Decline and use offline, with the full policy readable offline before choosing. Your choice is stored locally. Turn on Offline only in Settings → Currency to withdraw online-rate consent and stop subsequent rate requests. Re-enabling online rates requires an explicit choice again. A request already in progress may finish. Built-in reference rates and all local calculator features remain available offline. Opening an external website, including the online policy or provider attribution, uses your browser and that website’s privacy practices.</p></article>
 <article id="en-clipboard"><h2>Clipboard and backups</h2><p>Copy and Export backup write the result or full app backup to your system clipboard only when you choose the action. A backup includes your settings, history, notebooks, pinboard/drawings and memory. Anyone or any app permitted to read your clipboard may be able to read that copy.</p>
 <p>Paste and Restore backup read the clipboard only after your action. On HarmonyOS the system Paste button grants that access. Restoring replaces app data after confirmation and keeps one local recovery snapshot; Undo last backup restore restores that snapshot.</p>
-<p>System backup and device migration are enabled where supported. Your operating system may transfer or back up app data according to your system/account settings and its privacy policy. Manual backups are not uploaded by HCalculator. Clear clipboard copies and separately stored backups yourself when you no longer need them.</p></article>
+<p>System backup and device migration are enabled where supported. Your operating system may transfer or back up app data according to your system/account settings and its privacy policy. Manual backups are not uploaded by HCalc. Clear clipboard copies and separately stored backups yourself when you no longer need them.</p></article>
 <article id="en-permissions"><h2>Permissions and optional sensors</h2><p>Internet access is used for public currency-rate downloads. Vibration is used for optional key feedback and can be turned off. Accelerometer readings support optional automatic one-handed mode; they are processed on the device and are not sent to the developer or the rate provider.</p>
-<p>HCalculator does not request camera, microphone, contacts or location access for its calculator features.</p></article>
+<p>HCalc does not request camera, microphone, contacts or location access for its calculator features.</p></article>
 <article id="en-contact"><h2>Questions and changes</h2><p>For support, privacy questions or data-rights requests, email GB Tech Reviews / HProductions at huaweiproreview@gmail.com. Contact support opens your email app with our address and a subject; no calculations, backups or attachments are added automatically. If you send an email, we receive your email address and the information you choose to include to respond to your request. Please do not send passwords or full backups.</p>
-<p>You can also use https://github.com/GBTechReviews/hcalculator/issues. GitHub issues are public: do not include private calculations, backups or other sensitive information. HCalculator holds no developer-side account or calculation database to search or delete. Support Me opens the optional Ko-fi support page in your browser; any payment is handled there under its own terms and privacy policy.</p>
+<p>You can also use https://github.com/GBTechReviews/hcalculator/issues. GitHub issues are public: do not include private calculations, backups or other sensitive information. HCalc holds no developer-side account or calculation database to search or delete. Support Me opens the optional Ko-fi support page in your browser; any payment is handled there under its own terms and privacy policy.</p>
 <p>This policy will be updated when app behaviour changes. The date above identifies this version. The English and Simplified Chinese versions describe the same practices.</p></article></section>
-<footer>GB Tech Reviews / HProductions · 2026-10-26<br><a href="mailto:huaweiproreview@gmail.com">huaweiproreview@gmail.com</a> · <a href="https://github.com/GBTechReviews/hcalculator/issues">GitHub issues / 公开反馈</a></footer></main></body></html>
+<footer>GB Tech Reviews / HProductions · 2026-10-27<br><a href="mailto:huaweiproreview@gmail.com">huaweiproreview@gmail.com</a> · <a href="https://github.com/GBTechReviews/hcalculator/issues">GitHub issues / 公开反馈</a></footer></main></body></html>
